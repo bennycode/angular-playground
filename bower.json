@@ -1,0 +1,12 @@
+{
+  "name": "angular-playground",
+  "version": "0.0.0",
+  "description": "",
+  "main": "dist/angular-playground.min.js",
+  "keywords": [],
+  "dependencies": {},
+  "ignore": [
+    "*",
+    "!dist/*"
+  ]
+}
